@@ -1,0 +1,30 @@
+{
+  "name": "portofolio-sabda",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@splinetool/react-spline": "^4.1.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.36.0",
+    "lucide-react": "^0.577.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-type-animation": "^3.2.0",
+    "react-vertical-timeline-component": "^3.6.0",
+    "tailwind-merge": "^3.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.8"
+  }
+}
